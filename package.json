@@ -1,0 +1,20 @@
+{
+  "name": "august_ui_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.0.14",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7"
+  }
+}
